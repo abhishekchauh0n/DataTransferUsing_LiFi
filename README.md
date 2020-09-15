@@ -1,0 +1,2 @@
+# DataTransferUsing_LiFi
+Li-Fi is a new technology for short range wireless communication system. This technology is implemented using white LED light bulbs used for illumination by applying a constant current. However, by fast variations of the current, the light output can be made to vary at extremely high speeds. If the LED is on, it transmits a digital 1 otherwise it transmits a digital 0. The LEDs can be switched on and off quickly to transmit data, but human eye unable to catch it. AVR,EMBEDDED C is used in this project.
